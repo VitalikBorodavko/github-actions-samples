@@ -8,4 +8,4 @@ namespace: hello-gitops
 images:
 - name: hello-gitops
   newName: vitalyaboroda/hello-gitops
-  newTag: e564017d3ba60181ba68076c7da1429c4e883ad0
+  newTag: 795c424220345dba70180476763316211fe48051
